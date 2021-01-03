@@ -1,0 +1,88 @@
+body{
+    font-family: 'Fredoka One', cursive;
+}
+
+.navbar{
+    background: #1e2022;
+    
+}
+.navbar-brand{
+    color: #f0f5f9;
+    font-family: 'Bungee Shade', cursive;
+    font-size: 40px;
+    margin-left: 5%;
+}
+.navbar-brand:hover{color: #f0f5f9;}
+.nav-link{
+    color: #c9d6df;
+}
+.nav-link:hover{
+    color: #f0f5f9;
+}
+
+#header{
+    margin-top: 120px;
+}
+.header-content-left{
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+}
+.header-content-left h1{
+    font-size: 50px;
+}
+.header-content-left p{
+    text-align: justify;
+}
+
+.header-content-right img{
+    width: 100%;
+    height: auto;
+}
+
+#about-one{
+    background-color: #c9d6df;
+    color: black;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: solid 2px;
+    border-left:none;
+    border-right:none;
+}
+
+.about-right h1{
+    margin-right: 15%;
+}
+
+.about-right p{
+    margin-top: 30px;
+    margin-right: 15%;
+}
+
+#agenda h1{
+    margin-left: 10%;
+}
+#agenda a{
+    margin-left: 20%;
+}
+
+.contact-left h1{
+    text-align: left;
+}
+
+.contact-left{
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 20%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.contact-right{
+    text-align: left;
+    margin-left: 25%;
+    margin-right: 30%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
