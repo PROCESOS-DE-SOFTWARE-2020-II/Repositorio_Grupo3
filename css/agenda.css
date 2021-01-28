@@ -1,0 +1,36 @@
+.navbar {
+    background-color: black;
+}
+
+#agenda {
+    margin-top: 5%;
+    width: 100%;
+    height: 100vh;
+}
+
+.Repositorio{
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.carousel-itemi{
+    margin-top: 18px;
+    height:  calc(100vw * 0.4500);
+    position: relative;
+    -webkit-background-size:cover;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+.imagen{
+    margin-top: 50px;
+    min-height: 90vh;
+    background-repeat: no-repeat;
+    width: auto;
+    background-position: center;
+    background-attachment: fixed;
+    border-image: auto;
+  background-size: cover;
+    background-image: url(../img/agenda_1.jpg);
+}
+.agenda{
+    margin-top: 50px;
+}
